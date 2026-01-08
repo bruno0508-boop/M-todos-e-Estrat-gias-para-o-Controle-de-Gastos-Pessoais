@@ -1,6 +1,6 @@
 O desafio propõe a criação de um caderno temático no NotebookLM, reunindo de três a cinco fontes abertas em texto ou PDF sobre um assunto financeiro introdutório. 
 
-Tema: Métodos e Estratégias para o Controle de Gastos Pessoais
+Tema escolhido no projeto: Métodos e Estratégias para o Controle de Gastos Pessoais
 
 1. Introdução e Objetivo
 Este projeto consistiu na criação de um ambiente de aprendizagem ativa utilizando a ferramenta NotebookLM. O objetivo central foi transformar informações dispersas sobre educação financeira em um guia prático e estruturado. O foco recaiu sobre a metodologia de controle de gastos, buscando não apenas entender "o que" fazer, mas "como" implementar estratégias eficientes de organização financeira pessoal.
